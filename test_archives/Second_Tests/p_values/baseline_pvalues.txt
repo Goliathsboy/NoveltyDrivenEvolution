@@ -1,0 +1,18 @@
+{
+"four-way-2-lane-no-pedestrian": {
+	"Objective - Hybrid": 0.40907473069409994, 
+	"Objective - Novelty": 0.4946044523955598, 
+	"Hybrid - Novelty": 0.37787141381795475}, 
+"four-way-2-lane-pedestrian": 
+	{"Objective - Hybrid": 0.08179786280556595, 
+	"Objective - Novelty": 0.07203882911561908, 
+	"Hybrid - Novelty": 0.48381730418560565}, 
+"four-way-no-pedestrian": {
+	"Objective - Hybrid": 0.2758783305756036, 
+	"Objective - Novelty": 0.004345422525631338, 
+	"Hybrid - Novelty": 0.019895923809076274}, 
+"four-way-pedestrian": {
+	"Objective - Hybrid": 0.2713763869988498, 
+	"Objective - Novelty": 0.042927439975205185, 
+	"Hybrid - Novelty": 0.15842616868504045}
+}
